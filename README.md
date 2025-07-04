@@ -19,9 +19,7 @@ This mock cybersecurity project demonstrates the development of a structured ris
 - **NIST CSF** – Risk functions: Identify, Protect, Detect, Respond, Recover
 - **ISO/IEC 27001:2013** – Annex A control alignment
 - **CIS Controls v8** – Mapped to risk treatments (e.g., access control, patching, phishing mitigation)
-
-## 🔗 Portfolio Version
-## 🔗 Portfolio Version  
+ 
 ## 🔗 Portfolio Version  
 > View this project with visuals and summaries on Notion: [GRC Portfolio on Notion](https://relic-flood-d5a.notion.site/GRC-Portfolio-226d8f38bae5805a8cc6d0ca6b3ea999?source=copy_link)
 
