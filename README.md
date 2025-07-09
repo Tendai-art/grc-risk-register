@@ -1,27 +1,63 @@
-# grc-risk-register
-# 🛡️ Cybersecurity Risk Register (NIST CSF-Aligned)
+# 🛡️ Cybersecurity Risk Register & Compliance Checklist (NIST CSF-Aligned)
 
-This mock cybersecurity project demonstrates the development of a structured risk register aligned with the **NIST Cybersecurity Framework (CSF)**, **ISO/IEC 27001**, and **CIS Controls**. It is designed to showcase hands-on application of risk management principles in a GRC (Governance, Risk, and Compliance) context.
+This educational project simulates a full-cycle GRC (Governance, Risk, and Compliance) workflow by combining a **structured cybersecurity risk register**, a **mapped compliance checklist**, and an **organizational accountability framework**. The goal is to demonstrate hands-on application of industry-recognized standards including:
+
+- **NIST Cybersecurity Framework (CSF)**
+- **ISO/IEC 27001:2013 Annex A**
+- **CIS Controls v8**
+
+---
 
 ## 📁 Project Files
-- `Cybersecurity Risk Register Project 1.pdf` – Complete deliverable including asset mapping, threat identification, risk scoring, and treatment strategies
-- `heatmap.png` – Color-coded impact vs. probability visualization for prioritized risks
 
-## 🧠 Key Components
-- Asset inventory covering routers, servers, switches, and more
-- Threat-vulnerability pairing across six risk scenarios
-- Risk scoring using impact × probability matrix
-- Visual risk heat map (high–medium–low zones)
-- Residual risk assessment and treatment strategies (mitigation, avoidance)
-- Alignment with international standards and security control best practices
+- `Cybersecurity Risk Management (GRC Portfolio).pdf` – Integrated case study including asset review, risk register, compliance mapping, and staff governance roles  
+- `heatmap.png` – Impact vs probability matrix highlighting priority risks  
+- `compliance-checklist.md` – Control verification table mapped to risk scenarios R1–R6 *(optional file to include)*
 
-## 📚 Frameworks & Standards Referenced
-- **NIST CSF** – Risk functions: Identify, Protect, Detect, Respond, Recover
-- **ISO/IEC 27001:2013** – Annex A control alignment
-- **CIS Controls v8** – Mapped to risk treatments (e.g., access control, patching, phishing mitigation)
- 
-## 🔗 Portfolio Version  
-> View this project with visuals and summaries on Notion: [GRC Portfolio on Notion](https://relic-flood-d5a.notion.site/GRC-Portfolio-226d8f38bae5805a8cc6d0ca6b3ea999?source=copy_link)
+---
+
+## 📊 Risk Register Highlights
+
+- Threat modeling across network assets (routers, switches, databases, servers)  
+- Risk scoring using probability × impact matrix  
+- Treatment strategies: mitigation, avoidance, and residual risk evaluation  
+- Visual heat map placing high-risk items in critical red zones  
+- Control maturity and alignment with ISO Annex A, NIST functions, and CIS benchmarks
+
+---
+
+## 📋 Compliance Controls Validation
+
+Each risk scenario (R1–R6) maps directly to control objectives:
+- ✔️ Patch Management (ISO A.12.6.1 / CIS 7)  
+- ✔️ Email Security and Anti-Phishing (ISO A.13.2.3 / CIS 9)  
+- ✔️ Access Controls (ISO A.9 / CIS 6)  
+- ✔️ Insider Threat Monitoring & Protocol Hardening
+
+Checklist includes compliance status, maturity level, and implementation notes.
+
+---
+
+## 👥 Staff Governance Matrix
+
+Defines GRC-related accountability roles:
+- Compliance Officer
+- IT Security Lead
+- HR/Policy Coordinator
+- Audit & Legal Liaison
+- PTO Backup Personnel  
+Shows how security controls remain effective across absences and shifts.
+
+---
+
+## 🔗 Portfolio Link
+
+View this project in full with visuals and structured layout via Notion:  
+[GRC Portfolio on Notion] https://bit.ly/4lN4Wpq
+
+---
 
 ## 🧾 License
-This project is part of a learning portfolio and intended for demonstration and educational use only. No proprietary or production data is included.
+
+This project is for educational and demonstration purposes only. No proprietary data, production systems, or sensitive infrastructure is included.
+
